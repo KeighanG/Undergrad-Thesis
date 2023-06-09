@@ -2,7 +2,7 @@ This repository contains the code used to analyze model output and make the figu
 'The Impact of the Meridional Temperature Gradient on the Spatial Distribution of Chemical Weathering Fluxes' by Keighan Gemmell.
 
 
-Model output for the 3 CMIP-6 experiments used can be downloaded from: https://esgf-node.llnl.gov/search/cmip6/: 
+Model output for the 3 CMIP6 CESM2 experiments used can be downloaded from: https://esgf-node.llnl.gov/search/cmip6/: 
 You will need to select the CESM model; experiments: piControl, abrupt 2x CO2, abrupt 4x CO2; output variables: surface temperature, precipitation flux, and runoff flux. 
 
 
