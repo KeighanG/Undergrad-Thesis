@@ -1,3 +1,4 @@
+Supervised by Dr. Colin Goldblatt and Dr. Carsten Abraham
 This repository contains the code used to analyze model output and make the figures for the undergraduate thesis titled:
 'The Impact of the Meridional Temperature Gradient on the Spatial Distribution of Chemical Weathering Fluxes' by Keighan Gemmell.
 
